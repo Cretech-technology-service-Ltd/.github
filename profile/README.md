@@ -1,9 +1,9 @@
 <div align="center">
   
-# 創逸科技服務有限公司
-### CRETECH Technology Service Ltd.
-
 <img src="https://www.cretech.com.tw/assets/img/footer-logo.png" width="400" alt="CRETECH Logo" />
+
+---
+# 創逸科技服務有限公司
 
 ### 🎯 TOGETHER WE REACH THE GOAL
 *專業與獨立的資科管理顧問 | 憑藉著知識移轉，與客戶進行價值共創*
@@ -27,6 +27,8 @@
 ---
 
 ## 🎯 核心服務項目
+
+<div align="center">
 
 <table>
   <tr>
@@ -59,6 +61,8 @@
   </tr>
 </table>
 
+</div>
+
 ---
 
 ## 🛠 技術專長領域
@@ -90,6 +94,8 @@
 
 ## 📍 服務據點
 
+<div align="center">
+
 <table>
   <tr>
     <td align="center" width="33%">
@@ -112,6 +118,8 @@
     </td>
   </tr>
 </table>
+
+</div>
 
 ---
 
