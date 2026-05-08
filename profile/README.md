@@ -64,7 +64,8 @@
         資安健診<br/>
         網站滲透測試<br/>
         系統弱點掃描<br/>
-        社交工程演練
+        社交工程演練<br/>
+        Acunetix 網站弱點掃描
       </td>
     </tr>
   </tbody>
@@ -102,8 +103,6 @@
 <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
 <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
 <img src="https://img.shields.io/badge/Shell%20Script-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
-<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 
@@ -117,6 +116,7 @@
 <img src="https://img.shields.io/badge/Metasploit-攻擊框架-2596CD?style=for-the-badge&logo=metasploit&logoColor=white" />
 <img src="https://img.shields.io/badge/Wireshark-封包分析-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
 <img src="https://img.shields.io/badge/Kali%20Linux-滲透測試環境-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
+<img src="https://img.shields.io/badge/Acunetix-網站弱點掃描-E4002B?style=for-the-badge&logoColor=white" />
 
 </div>
 
