@@ -110,7 +110,7 @@
 
 **🔍 資安工具與平台**
 
-<img src="https://img.shields.io/badge/Nessus-資安掃描-00A4A6?style=for-the-badge&logo=tenable&logoColor=white" />
+<img src="https://img.shields.io/badge/Nessus-主機弱點掃描-00A4A6?style=for-the-badge&logo=tenable&logoColor=white" />
 <img src="https://img.shields.io/badge/Burp%20Suite-滲透工具-FF6633?style=for-the-badge&logo=portswigger&logoColor=white" />
 <img src="https://img.shields.io/badge/Nmap-網路掃描-004088?style=for-the-badge&logo=nmap&logoColor=white" />
 <img src="https://img.shields.io/badge/Metasploit-攻擊框架-2596CD?style=for-the-badge&logo=metasploit&logoColor=white" />
