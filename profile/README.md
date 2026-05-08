@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://www.cretech.com.tw/assets/img/footer-logo.png" width="380" alt="CRETECH Logo" />
+<img src="https://www.cretech.com.tw/assets/img/footer-logo.png" width="520" alt="CRETECH Logo" />
 
 <h1>創逸科技服務有限公司</h1>
 
@@ -78,21 +78,45 @@
 
 <div align="center">
 
-**ISO 標準顧問**
+**🔐 ISO 國際標準顧問**
 
-<img src="https://img.shields.io/badge/ISO%2027001%20%2F%2027701-資安管理-0066cc?style=flat-square" />
-<img src="https://img.shields.io/badge/ISO%2021434-車用安全-0066cc?style=flat-square" />
-<img src="https://img.shields.io/badge/ISO%2027017%20%2F%2027018-雲端安全-0066cc?style=flat-square" />
-<img src="https://img.shields.io/badge/Pentest-滲透測試-0066cc?style=flat-square" />
+<img src="https://img.shields.io/badge/ISO%2027001-資訊安全管理-0066cc?style=for-the-badge" />
+<img src="https://img.shields.io/badge/ISO%2027701-隱私資訊管理-0066cc?style=for-the-badge" />
+<img src="https://img.shields.io/badge/ISO%2021434-車用資安管理-0066cc?style=for-the-badge" />
+<img src="https://img.shields.io/badge/ISO%2027017%20%2F%2027018-雲端安全-0066cc?style=for-the-badge" />
 
-<br/><br/>
+<br/>
 
-**開發技術**
+**🛡️ 資安攻防技術**
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+<img src="https://img.shields.io/badge/Penetration%20Testing-滲透測試-cc0000?style=for-the-badge&logo=hackaday&logoColor=white" />
+<img src="https://img.shields.io/badge/Vulnerability%20Scanning-弱點掃描-cc0000?style=for-the-badge&logo=dependabot&logoColor=white" />
+<img src="https://img.shields.io/badge/Social%20Engineering-社交工程演練-cc0000?style=for-the-badge&logo=protonmail&logoColor=white" />
+<img src="https://img.shields.io/badge/Security%20Assessment-資安健診-cc0000?style=for-the-badge&logo=shield&logoColor=white" />
+
+<br/>
+
+**💻 開發與系統技術**
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
+<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+<img src="https://img.shields.io/badge/Shell%20Script-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+
+<br/>
+
+**🔍 資安工具與平台**
+
+<img src="https://img.shields.io/badge/Nessus-資安掃描-00A4A6?style=for-the-badge&logo=tenable&logoColor=white" />
+<img src="https://img.shields.io/badge/Burp%20Suite-滲透工具-FF6633?style=for-the-badge&logo=portswigger&logoColor=white" />
+<img src="https://img.shields.io/badge/Nmap-網路掃描-004088?style=for-the-badge&logo=nmap&logoColor=white" />
+<img src="https://img.shields.io/badge/Metasploit-攻擊框架-2596CD?style=for-the-badge&logo=metasploit&logoColor=white" />
+<img src="https://img.shields.io/badge/Wireshark-封包分析-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+<img src="https://img.shields.io/badge/Kali%20Linux-滲透測試環境-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
 
 </div>
 
@@ -113,7 +137,7 @@
   <tbody>
     <tr>
       <td align="center">
-        台北市大安區<br/>敦化南路一段 205 號 12 樓 1209 室<br/><br/>
+        台北市中正區<br/>新生南路一段 50 號 7 樓之 7<br/><br/>
         📞 02-8771-4968
       </td>
       <td align="center">
