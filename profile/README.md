@@ -98,21 +98,6 @@
 
 ---
 
-## 🌟 核心專案
-
-<div align="center">
-
-| 專案名稱 | 描述 | 技術棧 | 狀態 |
-| :---: | :--- | :---: | :---: |
-| 🎣 **Cretech-PHISH** | 企業資安意識訓練平台，提供模擬釣魚郵件演練系統，協助企業提升員工資安警覺度 | `Python` `Flask` `MySQL` | ✅ Active |
-| 🛡️ **Security Assessment** | 資安檢測與弱點掃描工具，整合自動化掃描與滲透測試功能 | `Python` `Shell` | 🔧 Maintenance |
-
-</div>
-
-> 💡 更多專案資訊請參考各專案 Repository
-
----
-
 ## 📍 服務據點
 
 <div align="center">
@@ -151,9 +136,13 @@
 
 <div align="center">
 
-[![知識文庫](https://img.shields.io/badge/📚%20知識文庫-0066cc?style=for-the-badge)](https://www.cretech.com.tw/knowledge.html)
-[![課程資訊](https://img.shields.io/badge/🎓%20課程資訊-0066cc?style=for-the-badge)](https://www.cretech.com.tw/class.html)
-[![輔導實績](https://img.shields.io/badge/🏆%20輔導實績-0066cc?style=for-the-badge)](https://www.cretech.com.tw/project.html)
+<h3>
+  <a href="https://www.cretech.com.tw/knowledge.html">📚 知識文庫</a>
+  &nbsp;&nbsp;｜&nbsp;&nbsp;
+  <a href="https://www.cretech.com.tw/class.html">🎓 課程資訊</a>
+  &nbsp;&nbsp;｜&nbsp;&nbsp;
+  <a href="https://www.cretech.com.tw/project.html">🏆 輔導實績</a>
+</h3>
 
 </div>
 
@@ -175,11 +164,13 @@
 
 <div align="center">
 
-📧 **Email**　[sa@cretech.com.tw](mailto:sa@cretech.com.tw) &nbsp;｜&nbsp;
-🌐 **Website**　[www.cretech.com.tw](https://www.cretech.com.tw/) &nbsp;｜&nbsp;
-📘 **Facebook**　[@cretech.tw](https://www.facebook.com/cretech.tw/)
-
-<br/>
+<h4>
+📧 <a href="mailto:sa@cretech.com.tw">sa@cretech.com.tw</a>
+&nbsp;&nbsp;｜&nbsp;&nbsp;
+🌐 <a href="https://www.cretech.com.tw/">www.cretech.com.tw</a>
+&nbsp;&nbsp;｜&nbsp;&nbsp;
+📘 <a href="https://www.facebook.com/cretech.tw/">@cretech.tw</a>
+</h4>
 
 <sub>© 2026 Cretech Technology Service Ltd. All Rights Reserved.</sub>
 
